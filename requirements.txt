@@ -1,0 +1,8 @@
+# AI 명리학자 앱 (seed.yaml 기준)
+streamlit>=1.40
+python-dotenv>=1.0
+langgraph>=0.2
+langchain-openai>=0.2
+langchain-core>=0.3
+mcp>=1.0
+# pytest → requirements-dev.txt (로컬 전용)
